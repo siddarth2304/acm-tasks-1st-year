@@ -41,8 +41,23 @@ You are tasked with creating a Photo Gallery Website that allows users to browse
   - **JavaScript:** Add interactivity, such as search functionality, slideshow navigation, and image filtering.
 
 ---
+## 3. Expense Tracker
+**Domain:** Web  
+**Stack:** HTML, CSS, JavaScript  
 
-## 3. Recipe Finder – Personalized Recipe Recommendation Web Application  
+**Abstract:**  
+Create an expense tracker that allows users to input their expenses, categorize them, and view a summary of how much they've spent.
+
+### Features:
+- **Add Expenses:** Users can add the amount, category, and description for an expense.
+- **Category Filter:** Allow users to filter expenses by category (e.g., food, transportation, entertainment).
+- **Total Calculation:** Show a running total of expenses.
+- **Delete Expenses:** Users can remove an expense when it’s no longer needed.
+- **Data Persistence:** Store the data using `localStorage` to keep track of expenses between page reloads.
+
+---
+
+## 4. Recipe Finder – Personalized Recipe Recommendation Web Application  
 **Domain:** Web  
 **Stack:** HTML, CSS, JavaScript, Recipe APIs  
 
@@ -61,7 +76,7 @@ Create a recipe recommendation feature using HTML, CSS, and JavaScript. The app 
 
 ---
 
-## 4. Weather App – Real-Time Weather Data Display  
+## 5. Weather App – Real-Time Weather Data Display  
 **Domain:** Web  
 **Stack:** OpenWeather API (or any weather API)  
 
@@ -76,7 +91,7 @@ Create a simple weather application in React that fetches real-time weather data
 
 ---
 
-## 5. Random Joke Generator – Display Random Jokes  
+## 6. Random Joke Generator – Display Random Jokes  
 **Domain:** Web  
 **Stack:** React, Brooklyn API, Joke API or any other API  
 
